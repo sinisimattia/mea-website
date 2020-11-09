@@ -29,7 +29,7 @@
       <div
         v-else
         :class="{ 'columns section-column': mode == 'columns' }"
-        class="is-multiline is-vcentered is-gapless is-marginless"
+        class="is-desktop is-multiline is-vcentered is-gapless is-marginless"
       >
         <Section
           :class="{ 'column': mode == 'columns' }"
@@ -75,10 +75,10 @@ export default {
           0: {
             itemsToShow: 1,
           },
-          900: {
+          1300: {
             itemsToShow: 2,
           },
-          1210: {
+          1600: {
             itemsToShow: 3,
           },
         },

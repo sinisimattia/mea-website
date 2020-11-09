@@ -18,11 +18,12 @@
                 :src="require(`~/assets/img/${section.image}`)"
                 alt
                 class="is-block is-centered"
+                :class="{'is-rounded has-shadow': !(section.title || section.snippet)}"
               />
             </div>
 
-            <div class="column is-two-thirds" v-if="hasContent">
-              <p class="title is-2 has-text-centered-mobile" v-if="section.title">{{ section.title }}</p>
+            <div class="column is-two-thirds-fullhd" v-if="hasContent">
+              <p class="title is-3 has-text-centered-mobile" v-if="section.title">{{ section.title }}</p>
               <p class="subtitle is-4-desktop" v-if="section.snippet">
                 {{ section.snippet }}
               </p>
@@ -99,3 +100,13 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+.title {
+  word-wrap: none;
+}
+
+.thumbnail {
+  /**/
+}
+</style>
