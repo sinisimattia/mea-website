@@ -29,7 +29,8 @@
 
               <div
                 v-if="section.links"
-                class="columns is-vcentered is-centered"
+                :class="{'columns': isHorizontal}"
+                class="is-vcentered is-centered"
               >
                 <CoolLink
                   class="column"
