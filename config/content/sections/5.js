@@ -1,5 +1,6 @@
 export default {
     title: "Servizi",
+    id: "services",
     mode: "slider",
     sections: [
         {

@@ -1,5 +1,38 @@
 {
   "navigation": {
-    "pages": []
+    "pages": [
+      {
+        "name": "Chi siamo",
+        "icon": {
+          "pack": "fas",
+          "name": "user-friends"
+        },
+        "href": "/#us"
+      },
+      {
+        "name": "Processo",
+        "icon": {
+          "pack": "fas",
+          "name": "truck"
+        },
+        "href": "/#eco"
+      },
+      {
+        "name": "Cosa offriamo",
+        "icon": {
+          "pack": "fas",
+          "name": "tag"
+        },
+        "href": "/#offer"
+      },
+      {
+        "name": "Servizi",
+        "icon": {
+          "pack": "fas",
+          "name": "toolbox"
+        },
+        "href": "/#services"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="top">
     <div>
       <div class="hero is-small banner">
         <div class="hero-body">
