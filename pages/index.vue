@@ -9,7 +9,7 @@
                 <img :src="logo" alt="Logo" class="is-block is-centered logo" />
               </div>
 
-              <div class="column" v-if="title || subtitle">
+              <div class="column is-two-thirds" v-if="title || subtitle">
                 <h1 class="title is-0-desktop is-light is-still">
                   <span>{{ title }}</span>
                 </h1>
