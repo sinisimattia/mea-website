@@ -1,13 +1,5 @@
 {
   "navigation": {
-    "cta": {
-      "name": "Get started",
-      "icon": {
-        "pack": "fas",
-        "name": "rocket"
-      },
-      "href": "https://github.com/sinisimattia/sta2"
-    },
     "pages": [
       {
         "name": "Design",

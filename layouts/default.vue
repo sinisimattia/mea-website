@@ -22,7 +22,7 @@
         </b-navbar-item>
       </template>
 
-      <template #end>
+      <template #end v-if="cta">
         <b-navbar-item tag="div">
           <a
             :href="cta.href"

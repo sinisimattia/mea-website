@@ -4,18 +4,21 @@ export default {
   id: "eco",
   sections: [
     {
+      image: "take-away.svg",
+      horizontal: true,
       type: 'link',
-      horizontal: false,
       title: "Raccolta",
     },
     {
+      image: "truck.svg",
+      horizontal: true,
       type: 'success',
-      horizontal: false,
       title: "Trasporto"
     },
     {
+      horizontal: true,
+      image: "garbage.svg",
       type: 'danger',
-      horizontal: false,
       title: "Smaltimento",
     },
   ],
