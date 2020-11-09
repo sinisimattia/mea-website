@@ -3,6 +3,8 @@ export default {
     mode: "slider",
     sections: [
         {
+            type: 'info',
+            title: "CARTA",
             image: "paper-bin.svg",
             content: {
                 paragraphs: [
@@ -11,6 +13,17 @@ export default {
             },
         },
         {
+            title: "CALCINACCI",
+            image: "brickwall.svg",
+            content: {
+                paragraphs: [
+                    "Ritiro calcinacci."
+                ],
+            },
+        },
+        {
+            type: "warning",
+            title: "PLASTICA e IMBALLAGGI",
             image: "box.svg",
             content: {
                 paragraphs: [
@@ -19,6 +32,7 @@ export default {
             },
         },
         {
+            title: "FERRO e ACCIAIO",
             image: "metal.svg",
             content: {
                 paragraphs: [
@@ -27,14 +41,8 @@ export default {
             },
         },
         {
-            image: "broken-glass.svg",
-            content: {
-                paragraphs: [
-                    "Raccolta vetro di scarto, frammenti di vetro e rottami di vetro."
-                ],
-            },
-        },
-        {
+            type: "success",
+            title: "LEGNO",
             image: "woods.svg",
             content: {
                 paragraphs: [
@@ -43,6 +51,17 @@ export default {
             },
         },
         {
+            title: "VETRO",
+            image: "broken-glass.svg",
+            content: {
+                paragraphs: [
+                    "Raccolta vetro di scarto, frammenti di vetro e rottami di vetro."
+                ],
+            },
+        },
+        {
+            type: "dark",
+            title: "ATOMOBILI",
             image: "car-parts.svg",
             content: {
                 paragraphs: [
@@ -51,10 +70,11 @@ export default {
             },
         },
         {
-            image: "brickwall.svg",
+            title: "INERTI",
+            image: "minerals.svg",
             content: {
                 paragraphs: [
-                    "Ritiro calcinacci."
+                    "Smaltimento di materiali inerti con procedure dedicate."
                 ],
             },
         },

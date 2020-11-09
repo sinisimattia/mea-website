@@ -1,26 +1,14 @@
 export default {
-    mode: "slider",
+    mode: "columns",
     sections: [
         {
-            title: "FERRO",
+            image: "truck_1.jpeg",
         },
         {
-            title: "ACCIAIO",
+            image: "truck_3.jpeg",
         },
         {
-            title: "VETRO",
-        },
-        {
-            title: "LEGNO",
-        },
-        {
-            title: "PLASTICA",
-        },
-        {
-            title: "CALCINACCI",
-        },
-        {
-            title: "INERTI",
+            image: "truck_4.jpeg",
         },
     ]
 }
