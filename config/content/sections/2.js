@@ -6,7 +6,7 @@ export default {
     {
       image: "take-away.svg",
       horizontal: true,
-      type: 'link',
+      type: 'primary',
       title: "Raccolta",
     },
     {

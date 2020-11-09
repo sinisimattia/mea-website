@@ -23,7 +23,7 @@ export default {
         },
         {
             type: "warning",
-            title: "PLASTICA e IMBALLAGGI",
+            title: "PLASTICA",
             image: "box.svg",
             content: {
                 paragraphs: [

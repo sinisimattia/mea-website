@@ -21,9 +21,9 @@
               />
             </div>
 
-            <div class="column" v-if="hasContent">
-              <p class="title is-2" v-if="section.title">{{ section.title }}</p>
-              <p class="subtitle is-4" v-if="section.snippet">
+            <div class="column is-two-thirds" v-if="hasContent">
+              <p class="title is-2 has-text-centered-mobile" v-if="section.title">{{ section.title }}</p>
+              <p class="subtitle is-4-desktop" v-if="section.snippet">
                 {{ section.snippet }}
               </p>
 
