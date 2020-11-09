@@ -8,7 +8,7 @@ export default {
             image: "paper-bin.svg",
             content: {
                 paragraphs: [
-                    "Raccolta carta da macero, cartone e cartoncino, inclusi materiali poliaccoppiati di imballaggi (imballaggi composti da più materiali e che richiedono trattamenti speciali)"
+                    "Raccolta carta da macero, cartone e cartoncino, inclusi materiali poliaccoppiati di imballaggi (imballaggi composti da più materiali e che richiedono trattamenti speciali)."
                 ],
             },
         },
@@ -46,7 +46,7 @@ export default {
             image: "woods.svg",
             content: {
                 paragraphs: [
-                    "Raccolta materiali ed imballaggi in legno, scarti di legno e sughero"
+                    "Raccolta materiali ed imballaggi in legno, scarti di legno e sughero."
                 ],
             },
         },
@@ -65,7 +65,7 @@ export default {
             image: "car-parts.svg",
             content: {
                 paragraphs: [
-                    "Smaltimento di parti di automobili, come imbottiture di sedili, pannelli di sportelli paraurti e plance di autoveicoli in materie plastiche"
+                    "Smaltimento di parti di automobili, come imbottiture di sedili, pannelli di sportelli paraurti e plance di autoveicoli in materie plastiche."
                 ],
             },
         },

@@ -9,8 +9,8 @@ export default {
         'Una società a conduzione familiare che da anni si occupa di smaltimento di rifiuti.',
       content: {
         paragraphs: [
-          "Anca: responsabile logicstica e contatti",
-          "Marco: responsabile esecutivo per lo smaltimento dei rifiuti",
+          "Anca: responsabile logicstica e contatti.",
+          "Marco: responsabile esecutivo per lo smaltimento dei rifiuti.",
           "Insieme i due proprietari offrono serietà e garantiscono un lavoro certificato.",
           "___",
           "Iscrizione dell'Albo Nazionale Gestori Ambientale: RM20024",
