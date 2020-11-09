@@ -7,8 +7,5 @@ export default {
         {
             image: "truck_3.jpeg",
         },
-        {
-            image: "truck_4.jpeg",
-        },
     ]
 }

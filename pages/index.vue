@@ -1,12 +1,12 @@
 <template>
   <div>
     <div>
-      <div class="hero is-fullheight banner" :style="'background-image: url(' + bannerBackground + ')'">
+      <div class="hero is-small banner">
         <div class="hero-body">
           <div class="container section">
             <div class="columns is-vcentered">
               <div class="column" v-if="logo">
-                <img :src="logo" alt="Logo" class="is-block is-centered" />
+                <img :src="logo" alt="Logo" class="is-block is-centered logo" />
               </div>
 
               <div class="column" v-if="title || subtitle">
@@ -31,7 +31,6 @@
 import { identity, components } from '~/snisni.config.json'
 import SectionContainer from '@/components/organisms/SectionContainer'
 import sections from '~/config/content'
-import bannerBackground from '@/assets/img/backgrounds/topography.svg'
 
 export default {
   components: {
@@ -43,7 +42,6 @@ export default {
       subtitle: identity.slogan,
       sections,
       logo: components.banner.image,
-      bannerBackground,
     }
   },
 }
@@ -52,5 +50,9 @@ export default {
 <style scoped>
 .banner {
   background-attachment: fixed;
+}
+
+.logo {
+  max-height: 400px;
 }
 </style>

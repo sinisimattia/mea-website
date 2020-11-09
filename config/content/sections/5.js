@@ -61,7 +61,7 @@ export default {
         },
         {
             type: "dark",
-            title: "ATOMOBILI",
+            title: "AUTOMOBILI",
             image: "car-parts.svg",
             content: {
                 paragraphs: [
