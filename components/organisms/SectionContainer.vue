@@ -29,10 +29,10 @@
       <div
         v-else
         :class="{ 'columns section-column': mode == 'columns' }"
-        class="is-gapless is-vcentered is-marginless"
+        class="is-multiline is-vcentered is-gapless is-marginless"
       >
         <Section
-          :class="{ column: mode == 'columns' }"
+          :class="{ 'column': mode == 'columns' }"
           :section="section"
           v-for="(section, index) in sections"
           :key="index"
