@@ -1,45 +1,24 @@
 export default {
+  mode: "columns",
+  id: "us",
   sections: [
     {
-      id: 'design',
-      reversed: true,
-      title: 'Customizable Design',
+      reversed: false,
+      title: 'Chi Siamo',
       snippet:
-        'Tweak the appearence to match your taste.',
+        'Una società a conduzione familiare che da anni si occupa di smaltimento di rifiuti.',
       content: {
         paragraphs: [
-          'You can either customize this page via simple options in the section file or by directly editing the source code.',
-          "It's up to you, really."
+          "Anca: responsabile logicstica e contatti",
+          "Marco: responsabile esecutivo per lo smaltimento dei rifiuti",
+          "(se mi date delle vostre foto posso metterle qui)",
         ],
       },
       type: 'primary',
-      image: 'illustrations/ideation.svg',
     },
     {
-      id: 'presets',
-      title: 'Choose your preset',
-      snippet:
-        'Build now, learn later.',
-      content: {
-        paragraphs: [
-          'Acces pre-built and pre-tested components and worry about your message, not its presentation.'
-        ],
-      },
-      image: 'illustrations/team.svg',
-    },
-    {
-      id: 'performance',
-      title: 'Universally Performant',
-      snippet: 'Generate vanilla pages.',
-      type: 'dark',
-      reversed: true,
-      content: {
-        paragraphs: [
-          'No framework needed.',
-          'The site is compiled and built ad hoc for the situation, making it universally deployable.',
-        ],
-      },
-      image: 'illustrations/growing.svg',
+      title: 'Anca & Marco',
+      snippet: "Insieme i due proprietari offrono serietà e garantiscono un lavoro certificato."
     },
   ],
 }

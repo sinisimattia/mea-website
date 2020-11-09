@@ -1,25 +1,22 @@
 export default {
+  title: "Per un mondo più pulito",
   mode: 'columns',
-  id: "layout",
+  id: "eco",
   sections: [
     {
-      type: 'primary',
+      type: 'link',
       horizontal: false,
-      title: "Choose your layout.",
-    },
-    {
-      horizontal: false,
-      title: "Fall in love with it.",
+      title: "Raccolta",
     },
     {
       type: 'success',
       horizontal: false,
-      title: "Stop worrying about responsivity."
+      title: "Trasporto"
     },
     {
-      type: 'link',
+      type: 'danger',
       horizontal: false,
-      title: "It just works!",
+      title: "Smaltimento",
     },
   ],
 }

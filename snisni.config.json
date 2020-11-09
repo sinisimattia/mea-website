@@ -1,20 +1,20 @@
 {
   "identity": {
-    "name": "",
-    "slogan": "Static site generator template built with NuxtJS",
+    "name": "M.E.A. Ecologia",
+    "slogan": "Frase slogan e logo da definire.",
     "logo": {
       "image": "",
       "alt": "/"
     },
     "icon": {
-      "src": "https://i.ibb.co/8Ptzc3V/sta2.png",
-      "type": "image/png"
+      "src": "",
+      "type": ""
     },
-    "credit": "Built with 🧡 by Mattia Sinisi"
+    "credit": "Built with 🧡 by Mattia Sinisi for M.E.A. Ecologia"
   },
   "components": {
     "banner": {
-      "image": "https://i.ibb.co/8Ptzc3V/sta2.png"
+      "image": ""
     },
     "footer": {}
   },
