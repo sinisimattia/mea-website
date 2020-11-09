@@ -1,0 +1,30 @@
+{
+  "navigation": {
+    "cta": {
+      "name": "Get started",
+      "icon": {
+        "pack": "fas",
+        "name": "rocket"
+      },
+      "href": "https://github.com/sinisimattia/sta2"
+    },
+    "pages": [
+      {
+        "name": "Design",
+        "icon": {
+          "pack": "fas",
+          "name": "pencil-ruler"
+        },
+        "href": "/#design"
+      },
+      {
+        "name": "Layouts",
+        "icon": {
+          "pack": "fas",
+          "name": "user-friends"
+        },
+        "href": "/#layout"
+      }
+    ]
+  }
+}

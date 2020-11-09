@@ -1,0 +1,25 @@
+{
+  "identity": {
+    "name": "",
+    "slogan": "Static site generator template built with NuxtJS",
+    "logo": {
+      "image": "",
+      "alt": "/"
+    },
+    "icon": {
+      "src": "https://i.ibb.co/8Ptzc3V/sta2.png",
+      "type": "image/png"
+    },
+    "credit": "Built with 🧡 by Mattia Sinisi"
+  },
+  "components": {
+    "banner": {
+      "image": "https://i.ibb.co/8Ptzc3V/sta2.png"
+    },
+    "footer": {}
+  },
+  "links": {
+    "report_issues": "https://github.com/sinisimattia/sta2/issues"
+  },
+  "newsletter": null
+}

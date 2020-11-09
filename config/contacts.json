@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "name": "GitHub",
+      "icon": {
+        "pack": "fab",
+        "name": "github"
+      },
+      "href": "https://github.com/sinisimattia/sta2"
+    },
+    {
+      "name": "Contact me",
+      "icon": {
+        "pack": "fas",
+        "name": "envelope"
+      },
+      "href": "mailto:mattia@snisni.it"
+    }
+  ]
+}
