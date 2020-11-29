@@ -1,5 +1,6 @@
 export default {
   id: "offer",
+  mode: "columns",
   sections: [
     {
       horizontal: false,
@@ -10,6 +11,11 @@ export default {
           'Potrai gestire i tuoi rifiuti speciali senza impiegare risorse interne, ad un prezzo conveniente e a norma di legge.',
         ],
       },
+    },
+    {
+      image: "truck_4.jpeg",
+      horizontal: false,
+      snippet: "Il trasporto è garantito da autorizzazione, viene gestito con la certezza che i tuoi rifiuti vengano consegnati nei centri di smaltimenti e recupero autorizzati competenti.",
     },
   ],
 }
