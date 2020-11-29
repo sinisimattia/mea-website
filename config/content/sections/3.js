@@ -5,6 +5,7 @@ export default {
     {
       horizontal: false,
       title: 'Cosa offriamo',
+      snippet: 'Un servizio su tutto il territorio laziale.',
       content: {
         paragraphs: [
           'La ditta M.E.A. ECOLOGICA è specializzata nella gestione dei rifiuti aziendali, tramite il servizio di raccolta e smaltimento dei rifiuti speciali non pericolosi, oltre carta e cartone!',

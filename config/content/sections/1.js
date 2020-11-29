@@ -10,7 +10,6 @@ export default {
       content: {
         paragraphs: [
           "Insieme i due proprietari offrono serietà e garantiscono un lavoro certificato.",
-          "Siamo presenti in tutto il lazio.",
           "___",
           "Iscrizione dell'Albo Nazionale Gestori Ambientale: RM20024",
           "Iscrizione all'Albo Autotrasportatori: RM6001283Z",
