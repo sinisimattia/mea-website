@@ -9,7 +9,7 @@ export default {
         'Una società a conduzione familiare che da anni si occupa di smaltimento di rifiuti.',
       content: {
         paragraphs: [
-          "Anca: responsabile logicstica e contatti.",
+          "Anca: responsabile logistica e contatti.",
           "Marco: responsabile esecutivo per lo smaltimento dei rifiuti.",
           "Insieme i due proprietari offrono serietà e garantiscono un lavoro certificato.",
           "___",
