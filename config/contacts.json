@@ -7,6 +7,14 @@
         "name": "envelope"
       },
       "href": "mailto:info@meaecologica.it"
+    },
+    {
+      "name": "Chiamaci",
+      "icon": {
+        "pack": "fas",
+        "name": "phone"
+      },
+      "href": "tel:+393286432451"
     }
   ]
 }
