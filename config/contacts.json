@@ -1,7 +1,7 @@
 {
   "contacts": [
     {
-      "name": "Scrivici",
+      "name": "info@meaecologica.it",
       "icon": {
         "pack": "fas",
         "name": "envelope"
@@ -9,12 +9,20 @@
       "href": "mailto:info@meaecologica.it"
     },
     {
-      "name": "Chiamaci",
+      "name": "(+39) 328 643 2451",
       "icon": {
         "pack": "fas",
         "name": "phone"
       },
       "href": "tel:+393286432451"
+    },
+    {
+      "name": "(+39) 329 085 5686",
+      "icon": {
+        "pack": "fas",
+        "name": "phone"
+      },
+      "href": "tel:+393290855686"
     }
   ]
 }
